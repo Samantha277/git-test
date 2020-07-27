@@ -47,3 +47,7 @@ body{
     padding: 10px;
 
 }
+.a:hover{
+    visibility: visible;
+    display: contents;
+}
